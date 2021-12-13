@@ -1,12 +1,12 @@
 <a align="center" href="index.html">
-	<img src="../assets/ego.png" class="center" width="95%" height="95%"/>
+	<img src="https://raw.githubusercontent.com/MacrowebCloud/.github/main/assets/ego.png" class="center" width="95%" height="95%"/>
 </a>
 <p align="left">
 <h2>
-	<b> Welcome to our Organization </b> <img align="left" src="../assets/hello-world.gif" width="29px">
+	<b> Welcome to our Organization </b> <img align="left" src="https://raw.githubusercontent.com/MacrowebCloud/.github/main/assets/hello-world.gif" width="29px">
 </h2>
 	<a href="index.html">
-		<img align="right" src="https://komarev.com/ghpvc/?username=g1f1readme&color=brightgreen&style=plastic" alt="Repository Readme Views"/>
+		<img align="right" src="https://komarev.com/ghpvc/?usernameMacrowebg&color=brightgreen&style=plastic" alt="Repository Readme Views"/>
 	</a>
 </p>
 
@@ -15,7 +15,7 @@
 
 
 <p>
-  <img width="250" align='left' src="../assets/contributions.gif?raw=true">
+  <img width="250" align='left' src="https://raw.githubusercontent.com/MacrowebCloud/.github/main/assets/contributions.gif">
 </p>
 <p>
 </br>
