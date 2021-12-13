@@ -6,7 +6,7 @@
 	<b> Welcome to our Organization </b> <img align="left" src="https://raw.githubusercontent.com/MacrowebCloud/.github/main/assets/hello-world.gif" width="29px">
 </h2>
 	<a href="index.html">
-		<img align="right" src="https://komarev.com/ghpvc/?usernameMacrowebCloud.github&color=brightgreen&style=plastic" alt="Repository Readme Views"/>
+		<img align="right" src="https://komarev.com/ghpvc/?username=MacrowebCloud.github&color=brightgreen&style=plastic" alt="MacrowebCloud .github views"/>
 	</a>
 </p>
 
